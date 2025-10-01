@@ -15,34 +15,6 @@ const funds = [
     description: "Pensado para fortalecer la educación básica y media. Con este sembramos oportunidades para niños, jóvenes y adultos que desean culminar sus estudios.",
     benefits: ["Bibliotecas", "Becas Básica y media", "Educación rural para Antioquia","Inspiración Experiencias"],
     color: "text-accent"
-  },
-  {
-    icon: Heart,
-    title: "Fondo de Salud y Bienestar",
-    description: "Programas de salud preventiva, bienestar integral y apoyo médico para ti y tu familia.",
-    benefits: ["Atención médica", "Programas preventivos", "Bienestar familiar"],
-    color: "text-secondary"
-  },
-  {
-    icon: Sparkles,
-    title: "Fondo de Recreación",
-    description: "Disfruta de actividades culturales, recreativas y turísticas con tarifas preferenciales.",
-    benefits: ["Eventos culturales", "Turismo social", "Actividades deportivas"],
-    color: "text-accent"
-  },
-  {
-    icon: Users,
-    title: "Subsidio Familiar",
-    description: "Apoyo económico mensual según tu núcleo familiar y condiciones socioeconómicas.",
-    benefits: ["Cuota monetaria", "Apoyo alimentario", "Beneficios adicionales"],
-    color: "text-secondary"
-  },
-  {
-    icon: Gift,
-    title: "Fondo de Solidaridad",
-    description: "Ayudas especiales en momentos difíciles y programas de apoyo para situaciones extraordinarias.",
-    benefits: ["Ayudas de emergencia", "Apoyo en calamidad", "Programas especiales"],
-    color: "text-accent"
   }
 ];
 
