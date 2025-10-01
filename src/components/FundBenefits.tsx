@@ -15,6 +15,20 @@ const funds = [
     description: "Pensado para fortalecer la educación básica y media. Con este sembramos oportunidades para niños, jóvenes y adultos que desean culminar sus estudios.",
     benefits: ["Bibliotecas", "Becas Básica y media", "Educación rural para Antioquia","Inspiración Experiencias"],
     color: "text-accent"
+  },
+  {
+    icon: Heart,
+    title: "FOSFEC",
+    description: "Apoya a quienes se encuentran en búsqueda de empleo y necesitan fortalecer sus habilidades y competencias. Es un fondo que adicionalmente destina recursos para programas enfocados en el mejoramiento de la productividad de los trabajadores, beneficiarios y MiPymes afiliadas",
+    benefits: ["Capacitaciones", "Desarrollo empresarial", "Subsidio al desempleo"],
+    color: "text-secondary"
+  },
+  {
+    icon: Sparkles,
+    title: "Excedentes del 55%",
+    description: "Este Fondo se destina para aumentar los subsidios en los programas de inversión social que como Caja de Compensación debemos desarrollar.",
+    benefits: ["Población afiliada en categoría A y B", "Bienestar", "Aumento de subsidios"],
+    color: "text-accent"
   }
 ];
 
