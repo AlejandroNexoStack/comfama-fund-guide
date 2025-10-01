@@ -4,16 +4,16 @@ import { GraduationCap, Home, Heart, Sparkles, Users, Gift } from "lucide-react"
 const funds = [
   {
     icon: GraduationCap,
-    title: "Fondo de Educación",
-    description: "Accede a subsidios para educación formal, cursos técnicos y programas de capacitación para toda tu familia.",
-    benefits: ["Becas escolares", "Cursos técnicos", "Programas universitarios"],
+    title: "FONIÑEZ",
+    description: "Este fondo permite acompañar a madres gestantes niños y adolescentes promoviendo su desarrollo integral.",
+    benefits: ["Programas para niños de 0 a 6 años.", "Para apoyar nutrición, salud, protección y educación inicial.", "Jardines y hogares infantiles en zonas rurales","Bono nutricional"],
     color: "text-secondary"
   },
   {
     icon: Home,
-    title: "Fondo de Vivienda",
-    description: "Soluciones para tu hogar: compra, construcción, mejoramiento y subsidios para tu primera vivienda.",
-    benefits: ["Subsidio de vivienda", "Mejoras del hogar", "Asesoría financiera"],
+    title: "Ley 115",
+    description: "Pensado para fortalecer la educación básica y media. Con este sembramos oportunidades para niños, jóvenes y adultos que desean culminar sus estudios.",
+    benefits: ["Bibliotecas", "Becas Básica y media", "Educación rural para Antioquia","Inspiración Experiencias"],
     color: "text-accent"
   },
   {
