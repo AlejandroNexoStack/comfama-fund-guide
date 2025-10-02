@@ -34,9 +34,16 @@ const Hero = () => {
                 Explorar Fondos
                 <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
               </Button>
-              <Button onClick={FonBot} size="lg" variant="outline" >
+              {/* <Button onClick={FonBot} size="lg" variant="outline" >
                 Hablar con FONBOT
-              </Button>
+              </Button> */}
+              <Button 
+              onClick={() => window.open("https://462a720093bae5b0855b2b7e6450b2.11.environment.api.powerplatform.com/...", "_blank")}
+              size="lg"
+              variant="outline"
+            >
+              Hablar con FONBOT
+            </Button>
             </div>
           </div>
           
