@@ -17,15 +17,14 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-              Descubre los Beneficios de Tus{" "}
+              Descubre los Beneficios de los{" "}
               <span className="bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">
-                Fondos Comfama
+                Fondos de Ley
               </span>
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl">
-              FONBOT te ayuda a entender y aprovechar al máximo todos los fondos disponibles para ti y tu familia. 
-              Educación, vivienda, salud y más.
+              FONBOT te ayuda a entender y aprovechar al máximo todos los lineamientos de los fondos para que puedas potenciar al máximo el desarrollo de los programas que buscan impactar la movilidad social.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
