@@ -2,7 +2,9 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import fonbotImage from "@/assets/fonbot-assistant.png";
 
+
 const Hero = () => {
+  const FonBot = () => {window.location.href ="https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=b6fb3609-d5f4-45b4-bf17-0de909487f9a&environment=462a7200-93ba-e5b0-855b-2b7e6450b211"}
   return (
     <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
       {/* Gradient Background */}
@@ -32,9 +34,9 @@ const Hero = () => {
                 Explorar Fondos
                 <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
               </Button>
-              <a href="https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?source=app-details-dialog&templateInstanceId=b6fb3609-d5f4-45b4-bf17-0de909487f9a&environment=462a7200-93ba-e5b0-855b-2b7e6450b211" size="lg" variant="outline" >
+              <Button onClick={FonBot} size="lg" variant="outline" >
                 Hablar con FONBOT
-              </a>
+              </Button>
             </div>
           </div>
           
