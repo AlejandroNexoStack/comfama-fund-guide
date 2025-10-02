@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import fonbotImage from "@/assets/fonbot-assistant.png";
-import {MiBoton} from '@/components/ui/miBoton'
+import MiBoton from '@/components/ui/miBoton';
 
 
 const Hero = () => {
@@ -38,7 +38,7 @@ const Hero = () => {
               {/* <Button onClick={FonBot} size="lg" variant="outline" >
                 Hablar con FONBOT
               </Button> */}
-              <MiBoton></MiBoton>
+              <MiBoton/>
             </div>
           </div>
           
